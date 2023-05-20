@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    height: 75px;
+    background-color: darkblue;
+    justify-content: space-between;
+}
+
+.Diablo2M1{
+    display: flex;
+}
+
+.Diablo2M1 img{
+    height: 60px;
+}
